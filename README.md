@@ -63,13 +63,13 @@ The cells varied in size, circularity, and fluorescence intensity. Cell 2 had th
 
 ### Figure 1. Five Cells Measured in Fiji
 
-![Five measured cells](figures/measured_cells.png)
+![Five measured cells](measured_cells.png.png)
 
 *Five cells selected using freehand regions of interest (ROIs) in Fiji/ImageJ.*
 
 ### Figure 2. Cell Area vs. Circularity
 
-![Cell area versus circularity](figures/area_vs_circularity.png)
+![Cell area versus circularity](area_vs_circularity.png)
 
 *Scatter plot comparing cell area and circularity for the five measured cells.*
 
@@ -77,7 +77,7 @@ The plot shows that the measured cells have different sizes and shapes. Cell 4 w
 
 ### Figure 3. Mean Actin Fluorescence Intensity
 
-![Actin fluorescence intensity](figures/actin_intensity.png)
+![Actin fluorescence intensity](actin_intensity.png)
 
 *Bar graph showing the mean actin fluorescence intensity of each measured cell.*
 
